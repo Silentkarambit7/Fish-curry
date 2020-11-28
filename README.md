@@ -1,1 +1,2 @@
-# Fish-curry
+# Fish_curry
+# The recipe is fishcurry
